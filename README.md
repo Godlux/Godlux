@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Godlux
+- 👀 I’m interested in reverse (reversing web api & creating source from bytecode), backend (Java\C#\Python) development.
+- 🌱 I’m currently learning (asyncio web api interacting) via C# 
